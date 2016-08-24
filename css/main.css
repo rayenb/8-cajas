@@ -1,0 +1,20 @@
+/* Inserta tu CSS aqui */
+.caja {
+	width: 100px;
+	height: 100px;
+	background-color: #737373;
+	border: 1px solid black;
+	display: inline-block;
+	margin-right: 10px;
+}
+.conuno {
+	background-color: #737373;
+	border: 1px solid black;
+	margin-top: 10px;
+	padding: 10px;
+	width: 345px;
+}
+.condos {
+	margin: 10px 0px;
+}
+
